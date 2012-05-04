@@ -1,0 +1,13 @@
+{
+  "author": "Daniel Brockman <@dbrock>",
+  "name": "main",
+  "description": "Composable main() functions for Node.js",
+  "version": "0.0.0",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
